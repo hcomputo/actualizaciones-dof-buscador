@@ -1,8 +1,8 @@
 {
-  "version": "2.1.1",
-  "fecha": "12 de agosto de 2026",
-  "titulo": "Nueva versión 2.1.1 disponible",
-  "mensaje": "Se agregó la comprobación automática de actualizaciones.",
+  "version": "2.2.0",
+  "fecha": "22 de agosto de 2026",
+  "titulo": "Nueva versión 2.2.0 disponible",
+  "mensaje": "Esta actualización incorpora búsquedas más precisas, mejoras en expedientes, calendario jurídico, avisos por correo, sincronización, estabilidad y facilidad de uso. La instalación conserva la información existente.",
   "url_avisos": "https://hcomputo.github.io/avisos/",
-  "url_descarga": "https://hcomputo.github.io/Instalador-dof-buscador/"
+  "url_descarga": "https://github.com/hcomputo/Instalador-dof-buscador/releases/download/v2.2.0/DOF_Buscador_2.2.0_Setup.exe"
 }
