@@ -1,8 +1,8 @@
 {
-  "version": "2.2.0",
-  "fecha": "22 de agosto de 2026",
-  "titulo": "Nueva versión 2.2.0 disponible",
-  "mensaje": "Esta actualización incorpora búsquedas más precisas, mejoras en expedientes, calendario jurídico, avisos por correo, sincronización, estabilidad y facilidad de uso. La instalación conserva la información existente.",
+  "version": "2.2.1",
+  "fecha": "6 de septiembre de 2026",
+  "titulo": "Nueva versión 2.2.1 disponible",
+  "mensaje": "Esta actualización incorpora una nueva interfaz principal, mejoras visuales, integración del Calendario Jurídico con Google Calendar, sincronización de creación, modificación y eliminación de eventos, avisos con anticipación, mejoras de estabilidad y correcciones generales. La instalación conserva la información existente del usuario.",
   "url_avisos": "https://hcomputo.github.io/avisos/",
-  "url_descarga": "https://github.com/hcomputo/Instalador-dof-buscador/releases/download/v2.2.0/DOF_Buscador_2.2.0_Setup.exe"
+  "url_descarga": "https://github.com/hcomputo/Instalador-dof-buscador/releases/latest/download/DOF_Buscador_Setup.exe"
 }
