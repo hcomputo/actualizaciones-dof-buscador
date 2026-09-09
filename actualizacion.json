@@ -1,8 +1,8 @@
 {
-  "version": "2.2.2",
+  "version": "2.2.3",
   "fecha": "8 de septiembre de 2026",
-  "titulo": "Nueva versión 2.2.2 disponible",
-  "mensaje": "Esta actualización rediseña por completo la apariencia del programa: nueva pantalla principal, nuevo logotipo, y todas las ventanas (Créditos, Historial, Herramientas Jurídicas, Avisos por correo, Calendario Jurídico y Criterios de búsqueda) con un estilo visual renovado, más elegante y moderno. La instalación conserva la información existente del usuario.",
+  "titulo": "PRUEBA - Nueva versión 2.2.3 disponible",
+  "mensaje": "Esta es una prueba temporal del botón de descarga automática.",
   "url_avisos": "https://hcomputo.github.io/avisos/",
   "url_descarga": "https://github.com/hcomputo/Instalador-dof-buscador/releases/latest/download/DOF_Buscador_Setup.exe"
 }
