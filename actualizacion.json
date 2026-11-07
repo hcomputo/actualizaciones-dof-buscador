@@ -1,8 +1,8 @@
 {
-  "version": "2.2.5",
-  "fecha": "19 de octubre de 2026",
-  "titulo": "Nueva versión 2.2.5 disponible",
-  "mensaje": "Incluye una barra de búsqueda para leyes y expedientes, más datos en los avisos y envío de correos sin contraseñas de Gmail. Conserva tu información.",
+  "version": "2.2.6",
+  "fecha": "6 de noviembre de 2026",
+  "titulo": "Nueva versión 2.2.6 disponible",
+  "mensaje": "Al abrir muestra qué clientes tuvieron publicaciones nuevas, crea solo los expedientes nuevos de tus clientes y detecta errores de fecha del Diario. Conserva tu información.",
   "url_avisos": "https://hcomputo.github.io/avisos/",
   "url_descarga": "https://github.com/hcomputo/Instalador-dof-buscador/releases/latest/download/DOF_Buscador_Setup.exe"
 }
